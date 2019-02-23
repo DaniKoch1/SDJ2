@@ -1,0 +1,21 @@
+removing a cd has been pressed
+22/03/2018 17:52:47
+
+title for cd to remove has been entered
+22/03/2018 17:53:02
+
+cd found and has been removed from the model
+22/03/2018 17:53:14
+
+cd has been removed in the database
+22/03/2018 17:53:24
+
+action 1
+22/03/2018 17:54:30
+
+action 2
+22/03/2018 17:54:33
+
+almost closed
+22/03/2018 17:54:38
+
